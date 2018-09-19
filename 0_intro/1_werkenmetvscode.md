@@ -1,5 +1,5 @@
 # Kennismaken met C# en Visual Studio Code {#kennismaken-met-c-en-visual-studio}
-Visual Studio Code (VS) is het lightweight, corssplatform broertje van Visual Studio. Via VS kan je tal van projecten,inclusief C# projecten op een snelle, eenvoudige manier maken.  
+Visual Studio Code (VS) is het lightweight, cross-platform broertje van Visual Studio. Via VS kan je tal van projecten,inclusief C# projecten op een snelle, eenvoudige manier maken.  
 
 # De compiler en Visual Studio Code
 Jouw taak als programmeur in deze cursus is algoritmes in C# taal uitschrijven. We zouden dit in een eenvoudige tekstverwerker kunnen doen, maar dan maken we het onszelf lastig. Net zoals je tekst in notepad kunt schrijven, is het handiger dit in bijvoorbeeld Word te doen: je krijgt een spellingchecker en allerlei handige extra's. Ook voor het schrijven van computer code is het handiger om een zogenaamde IDE (Integrated Development Environment) te gebruiken, een omgeving die ons zal helpen foutloze C# code te schrijven.
